@@ -5,7 +5,7 @@ import Login from './App/Screens/Login';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Login/>
+      <Dashboard/>
     </View>
   );
 }
