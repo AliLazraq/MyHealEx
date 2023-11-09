@@ -13,3 +13,5 @@ git push origin feature-branch
 Pull request, for me to be able to merge your code into the project: 
 On the GitHub repository create a new pull request from your feature branch.
 
+To get the latest version: 
+git pull origin main
