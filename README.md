@@ -9,7 +9,7 @@ Commit your changes locally:
 git add .
 git commit -m "Description of changes"
 Push changes to the git repo: 
-git push origin feature-branch
+git push origin main
 Pull request, for me to be able to merge your code into the project: 
 On the GitHub repository create a new pull request from your feature branch.
 
